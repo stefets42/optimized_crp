@@ -1,1 +1,1 @@
-# optimized_crp
+This is a portfolio of the websites I created, the current page achieving a 100/100 speed test score with the Google PageSpeed Test Tool, thanks to an optimized critical rendering path using HTML, CSS and JavaScript optimizations with significant performance implications.
